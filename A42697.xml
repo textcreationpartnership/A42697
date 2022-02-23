@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon, preached March 13. 1697/8. For Mr. William Hartley, of Newport-Pagnel, apothecary. By J. Gibbs.</title>
+            <author>Gibbs, John, 1627?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42697</idno>
+            <idno type="STC">Wing G663</idno>
+            <idno type="STC">ESTC R213761</idno>
+            <idno type="EEBO-CITATION">99826059</idno>
+            <idno type="PROQUEST">99826059</idno>
+            <idno type="VID">30451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1759:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon, preached March 13. 1697/8. For Mr. William Hartley, of Newport-Pagnel, apothecary. By J. Gibbs.</title>
+                  <author>Gibbs, John, 1627?-1699.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Mark Conyers, bookseller, at Newport-Pagnel: and sold by A. Roper in Fleetstreet, and G. Conyers in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Gathered in 2's.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hartley, William, d. 1698 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30451:1"/>
+            <pb facs="tcp:30451:1"/>
+            <p>A Funeral Sermon, Preached <hi>March</hi> 13. 1697/8.</p>
+            <p>FOR Mr. <hi>WILLIAM HARTLEY,</hi> of <hi>Newport-Pagnel,</hi> Apothecary.</p>
+            <q>
+               <l>Bis vivit, qui bene vivit,</l>
+               <l>Is timeat mortem, qui ad Chriſtum ire timet.</l>
+            </q>
+            <p>By <hi>J. GIBBS.</hi>
+            </p>
+            <q>
+               <p>Bleſſed are the Dead that die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their Labours; and their Works do follow them,</p>
+               <bibl>
+                  <hi>Rev. 14.13.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Mark Conyers,</hi> Bookſeller, at <hi>Newport-Pagnel:</hi> And Sold by <hi>A. Roper</hi> in <hi>Fleetſtreet,</hi> and <hi>G. Conyers</hi> in <hi>Little-Britain,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30451:2"/>
+            <pb facs="tcp:30451:2"/>
+            <head>TO THE Sons and Daughters OF Mr. <hi>William Hartley,</hi> deceaſed.</head>
+            <opener>
+               <salute>My Friends,</salute>
+            </opener>
+            <p>AT the Motion of your late deceaſed Father, which I could not withſtand, this home-ſpun Diſcourſe was Preached on the Subject, which was his own Choice; and is to ſatisfie his Deſire, (in this plain Dreſs) now pre<g ref="char:EOLhyphen"/>ſented unto you: His Deſign in Printing it was (as he told you) to keep him freſh in your Memory, that the Proverb might not be verified in you, <hi>Out of Sight, and out of Mind;</hi> and (without doubt) to remember you of that which was then coming upon him. Plain Diſcourſes, if pertinent, do best ſuit with Funeral Sermons: Had it been preached in a loftier ſtrain, as poſſibly I could have done, if the occaſion would have permitted it, it might have pleaſed itching Ears, and curious Palates, but would have been of little <g ref="char:V">Ʋ</g>ſe unto mean Capacities, the Welfare of whoſe Souls in Preaching ought to be reſpected. I therefore did think it best to uſe the plainest Language, that all might underſtand: And if the Lord will add his Bleſſing, that all might be pro<g ref="char:EOLhyphen"/>fited thereby, who were Auditors, or into whoſe Hand it may come to be read. Not making uſe of Notes in Preaching it can<g ref="char:EOLhyphen"/>not rationally be ſuppoſed, that my Memory ſhould be ſo tena<g ref="char:EOLhyphen"/>cious, as to retain every Word or Sentence that was delivered, or that there ſhould be no Omiſſion, Addition, or Alteration;
+<pb facs="tcp:30451:3"/>yet I have recollected as much as I could: And what is emitted, added, or altered, I hope will be no prejudice to the Truth then <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſiſted on: Neither can it be thought that a p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a Ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men ſhould as much affect the Heart of the Reader, as Preaching, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wa vote,</hi> might do the Hearer: There is as much difference uſually between Reading and Hearing, as there is between cold Meat and hot, although the Meat be the ſame, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an hungry Stomach may make a good Meal of it; or as there is let <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een Drink when the Veſſel is newly broached, witch is quick and palatable, and when it is at the bottom, and is become flat, and untaſtable, yet it may ſerve to quench the Thirst. The Subject treated on is very frequent and com<g ref="char:EOLhyphen"/>mon, and yet too little to awaken and rouſe up our ſleepy and ſlothful Hearts to ſerious diligence in and about the great Concernments of our Souls; for Eternity, was that great and neceſſary Truth which my Text holdeth forth; throughly be<g ref="char:EOLhyphen"/>lieved, it would produce better Effects in the Lives of Men, than do appear generally in the World. That which will cer<g ref="char:EOLhyphen"/>tainly, and must unavoidably come upon us, and how ſoon, and how ſuddenly it may come, and by what means, we know not; and is of the highest Importance, and deſerveth the greatest and deepest Conſideration, is that which my Text doth acquaint us with, and the enſuing Diſcourſe doth call for, and preſs unto. That this <g ref="char:V">Ʋ</g>ſe may he made of it by you (my Loving Friends) and many others that heard it, and others that may read it, is the Cordial Deſire of</p>
+            <closer>
+               <signed>Your Kinſman, and Soul's Friend, <hi>J. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:30451:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job XXX. 23.</hi>
+                  </bibl>
+                  <p>For I know thou wilt bring me to Death, and to the Houſe appointed for all living.</p>
+               </q>
+            </epigraph>
+            <p>IN the foregoing Chapter we have an Account of <hi>Job</hi>'s Proſperity, <hi>v.</hi> 1, 2. to the <hi>7th.</hi> and in Metaphorical Expreſſions, <hi>v.</hi> 19, 20. As alſo of the Honour he was in, being reverenced by Young and Old, Great and Small, <hi>v.</hi> 8, 9, 10, 11. with the reaſon of this Honour, from <hi>v.</hi> 12. to the 18. This Chapter, wherein is my Text, informs us of the ſad Cataſtrophe that did befall him; firſt, his Honour was laid in the Duſt, and turned into the greateſt Contempt, from <hi>v.</hi> 1. to 14. and his Proſperity into the deepeſt Calamity, whereof he doth moſt grievouſly Complain, from <hi>v.</hi> 14. unto the words of my Text, wherein three things are obſervable.</p>
+            <list>
+               <item>1. The Perſon ſpeaking in this Pronoun <hi>I;</hi> this was <hi>Job.</hi>
+               </item>
+               <item>2. The Perſon ſpoken unto, in the Pronoun <hi>Thou;</hi> which is God.</item>
+               <item>3. The Thing ſpoken, or the Matter of his Speech; <hi>bring me to Death.</hi>
+               </item>
+            </list>
+            <p>For the opening of the Words, I ſhall propound and anſwer three Queſtions.</p>
+            <list>
+               <item>1. Who, and what a one he is, that did know.</item>
+               <item>2. What he knew, or the Object of his Knowledge.</item>
+               <item>3. How he attained this Knowledge.</item>
+            </list>
+            <p>Of the firſt, it was <hi>Job;</hi> that moſt excellent Perſon, that for four things had not his fellow then on the Earth.</p>
+            <p n="1">1. For Piety and Godlineſs, <hi>Chap.</hi> 1. <hi>v.</hi> 1. His Picture was drawn by the Pencil of the Spirit of God in four Lines,
+<pb n="2" facs="tcp:30451:4"/>all which did ſpeak him to be a moſt excellent Man.</p>
+            <p n="1">1. He was <hi>
+                  <g ref="char:V">Ʋ</g>pright.</hi> 2. <hi>Perfect;</hi> not with a Legal, or ſinleſs Perfection, but Evangelical. 3. One <hi>that feared God, and eſchewed Evil;</hi> which contains both the poſitive part of Holineſs, and the privative. He was a worſhip<g ref="char:EOLhyphen"/>per of God, and an avoider of Evil; this was atteſted by God in the Face of his greateſt Enemy, <hi>v.</hi> 8. with an Addition, <hi>None like him.</hi>
+            </p>
+            <p n="2">2. For Patience; who, when the Meſſengers of moſt ſad Tydings came thick and threefold, one treading as it were upon the heels of another; he bleſſed God as well for taking away, as for giving; he was ſo far from Blaſpheming God, or venting an impatient word under his ſore Afflictions, that he bleſſed God; and it is ſaid of him, <hi>In all this</hi> Job <hi>ſinned not, nor charged God fooliſhly,</hi> Chap. 1. <hi>v.</hi> 21, 22. Preſented to us as a pattern of Pa<g ref="char:EOLhyphen"/>tience, <hi>James</hi> 5.11.</p>
+            <p n="3">3. For great Affliction and Calamity he never had any equal; no meer Man did ever ſuffer, as we read of, ſuch hard things as he met with; his large Eſtate ſwept away, his Children deſtroyed, <hi>Chap.</hi> 1. from <hi>v.</hi> 14. to 20. and his Body ſmitten with moſt noiſom Botches from Head to Foot.</p>
+            <p n="4">4. A Non-ſuch for recovery out of his deep Calamity, his Loſſes doubly repaired in his Subſtance, having 14000 Sheep for 7000, 6000 Camels for 3000, 1000 Yoak of Oxen for 500, and 1000 She-Aſſes for 500; beſides ſeven Sons, and three Daughters, which were the Beauties of the Land, <hi>Chap.</hi> 42. <hi>v.</hi> 12. to 16. This is the Man that had this Knowledge.</p>
+            <p n="2">2. What he knew: <hi>viz. That God would bring him to Death,</hi> &amp;c.</p>
+            <p n="1">1. 'Tis he would bring to Death, that gave him Life; he took away what he gave; it is he that breathed into him and into us that breath of Life, that will ſtop it, and ſend him and us away.</p>
+            <pb n="3" facs="tcp:30451:4"/>
+            <p n="2">2. It is he will bring unto Death, that ſupports Life, and preſerves it during his pleaſure; <hi>Pſal.</hi> 66.9. <hi>He hold<g ref="char:EOLhyphen"/>eth our Soul in life; in him we live, move, and have our Being,</hi> as <hi>Daniel</hi> told quaffing <hi>Belſhazzar, Dan.</hi> 5.23.</p>
+            <p n="3">3. It is he that hath appointed Death for us, whoſe Appointment is not ſubject to diſappointment: It is a Statute-Law enacted by the Divine Wiſdom, that all are ſubject unto; which none can avoid, but ſtands more firm than the Laws of the <hi>Medes</hi> and <hi>Perſians, Heb.</hi> 9.28. This Law is unrepealable, and will ſurely be exe<g ref="char:EOLhyphen"/>cuted.</p>
+            <p n="4">4. It is he will bring us to Death, that hath innume<g ref="char:EOLhyphen"/>rable, and unaccountable ways and means to do it; ſome<g ref="char:EOLhyphen"/>times ſuddenly, without any previous warnings on our own Bodies: Some by Fire, ſome by Water, others by the Sword, or Bullet. Ah! how many Thouſands have thus fallen in a time of War? Some by an Apoplexy, others fall into Swoons, that revive no more.</p>
+            <p>Some he brings to Death by Chronick Diſeaſes, or lingring Diſtempers, which gradually by little and little do weaken and waſte Nature, until Death comes; as in Conſumptions, Pthiſicks, Dropſies, <hi>&amp;c.</hi>
+            </p>
+            <p>Some are taken off by Acute ſharp Pains, as by the Cholick, Stone, Gout, and ſuch like; and no Man can give an Account of all the ways that God doth bring us to Death; but by one means or another, in one way or another, it ſhall be done. So that the common Proverb is verified, <hi>That there is but one way of coming into the World, but there are innumerable ways of going out of it.</hi>
+            </p>
+            <p n="5">5. He will bring us to Death, whoſe Power is unre<g ref="char:EOLhyphen"/>ſiſtible. Alas! what a poor weak Worm is Man? what ſtrength hath he when the Almighty God hath to do with him? Can he that is more feeble than a Moth, re<g ref="char:EOLhyphen"/>ſiſt, or withſtand, or bear up againſt an Omnipotent Arm? <hi>Job</hi> 9.12. <hi>Behold, he taketh away, and who can hinder
+<pb n="4" facs="tcp:30451:5"/> him?</hi> That is, none can; if all the Power and Strength of Men were combined together, to preſerve the Life of one Perſon, it would be in vain to attempt it, when God will bring him to Death. <hi>Who hath an Arm like him?</hi> Job 40.9. If none hath, then none can diſannul his Judgment, <hi>ver.</hi> 8. No Man hath Power to retain the Spirit in the hour of Death, <hi>Eccleſ.</hi> 8.8. Therefore no Heart can endure or hold out, nor can any Hand be ſtrong, when God ſhall deal with Man, <hi>Ezek.</hi> 22.14.</p>
+            <p n="6">6. It is he whoſe Will is uncontroulable, <hi>He is of one Mind, and who can turn him? He doth whatſoever he will in Heaven above, and on Earth beneath:</hi> What he is plea<g ref="char:EOLhyphen"/>ſed to do, that he will do, and who dare queſtion him, or ſay, <hi>What doſt thou?</hi> Job 9.12. Pſal. 135.6. He hath no Superiour, therefore it is too great Arrogancy and Boldneſs in a poor ſorry Worm, to call God to Ac<g ref="char:EOLhyphen"/>count for what he doth, as interpretatively diſcontented Perſons do.</p>
+            <p n="7">7. He will bring unto Death: <hi>Who hath ſet the bounds of our Lives, beyond which we cannot paſs,</hi> Job 14.5. And when the appointed Time is come, his purpoſe in bring<g ref="char:EOLhyphen"/>ing to Death ſhall take place. <hi>There is an appointed time to Man upon the Earth,</hi> Job 7.1. and untill that appointed Time come, Man ſhall be continued on the Earth, what<g ref="char:EOLhyphen"/>ſoever Dangers he may meet with in his Paſſage through this Wilderneſs, by one means or another God will pre<g ref="char:EOLhyphen"/>ſerve; ſome that in probability have been near the Gates of Death, being given up of Phyſicians for dead Perſons, and their Friends weeping about them, have been brought back from the ſides of the Pit, and have out-lived others more healthful, and far more likely to live. And others, when the time appointed was come, have been brought unto Death, when in Reaſon there was little Expectation of it.</p>
+            <pb n="5" facs="tcp:30451:5"/>
+            <p n="8">8. He will bring to Death, that is, inexorable, when the Time determined is come. It is not Prayers or Tears that ſhall then prevail to procure the lengthening out of the day of Life. It is not crying, <hi>O ſpare me a little, that I may recover ſtrength,</hi> will ſerve turn. How many on their Death-beds have with Tears begged a little lon<g ref="char:EOLhyphen"/>ger time, not being ready and prepared for Death? But all in vain; whether prepared or not, it is not Wealth can purchaſe, nor Cries procure an hour's reſpite, when the ſet time is come. A World of Wealth, as one cryed out, for an Inch of Time; but, had ſhe it to give, ſhe could not have obtained it.</p>
+            <p>
+               <hi>Obj.</hi> But did not God add Fifteen Years unto <hi>Hezekiah</hi>'s Life, in Anſwer to his Prayers and Tears? <hi>Iſa.</hi> 38.1, 2, 3, 4, 5.</p>
+            <p>
+               <hi>Reſp.</hi> Fifteen Years were added from the time that he prayed and wept, but not unto the time appointed for his Diſſolution.</p>
+            <p>
+               <hi>Me.</hi> This was that Excellent Perſon, that was the Non-ſuch of the Earth in his day. But it is every <hi>me:</hi> One may ſay, God will bring me; another, that God will bring me; and ſo may every individual Perſon: So that none are exempted, none ſhall be paſſed by, but all God will bring to Death. He doth not ſay, I know I ſhall die; but, <hi>God will bring me to Death.</hi> All that have ever been before us, and they were innumerable from the Creation of the World, God hath brought to Death, but two; the one was <hi>Enoch,</hi> who was tranſlated, that he ſhould not ſee Death, <hi>Gen.</hi> 5.24. <hi>Heb.</hi> 11.5. and <hi>Elijah,</hi> that was immediately carryed up to Heaven in a Whirlwind, 2 <hi>Kings</hi> 2.11. and all that ſhall ſucceed or come after us, except thoſe that ſhall remain, and be alive at the coming of the Lord, <hi>who ſhall be caught up to meet the Lord in the Air,</hi> 1 Theſ. 4.17. yet though theſe ſhall not be brought to Death, they ſhall be changed,
+<pb n="6" facs="tcp:30451:6"/>which is equivalent to it; hence 1 <hi>Cor.</hi> 15.51. <hi>We ſhall not all ſleep, but we ſhall all be changed.</hi> The longeſt livers died: The Antediluvian Fathers, reported of <hi>Gen.</hi> 5. all of whom lived, through the ſtrength of Nature, and the Power of God, above 900 Years, except <hi>Mahalaleel,</hi> that wanted five Years of 900; and <hi>Lamech,</hi> that lived 777, and <hi>Enoch,</hi> that lived 365 Years before his Tran<g ref="char:EOLhyphen"/>ſlation, yet they all were ſaid to die, as <hi>Adam, Seth, Enos, &amp;c.</hi> So that though Men may live many Years, and though they ſpend them in Mirth and Pleaſures, yet it concerns them to remember the days of Darkneſs will come, <hi>Eccleſ.</hi> 11.8. There is no Age of the World, nor ſhall be unto the end of the World, but Man, that was born of a Woman, hath been brought to Death; and as no Age hath been excuſed, ſo no Rank, Quality, or De<g ref="char:EOLhyphen"/>gree of Men have been exempted. The King as well as the Beggar hath paſſed through the Gates of Death; the Prince and the Peaſant: hence <hi>Pſal.</hi> 146.5, 6. <hi>Put not your truſt in Princes, nor in the Son of Man, in whom is no help.</hi> The Reaſon of this Exhortation, <hi>His breath goeth forth, he returneth to his Earth.</hi> Both are lodged toge<g ref="char:EOLhyphen"/>ther, one Houſe holds them both.</p>
+            <p>The Honourable muſt come to Death, all his great ſwelling Titles of Honour cannot ſecure him, nor can the mean and baſe Condition of others preſerve them.</p>
+            <p>The Rich and the Poor alſo muſt come to it, and lie down alike in the Duſt. We find, <hi>Luke</hi> 16.22. that the Beggar died: So did the Rich Man; and in one thing the Rich Man had the Advantage of <hi>Lazarus,</hi> for he, it is ſaid, was buried, poſſibly had a coſtly Coffin, and had great Splendor at his Funeral, and the Poor Man hurled obſcurely into ſome Hole; for though it is ſaid, he died it doth not ſay, he was buried; well, yet the Poor Man had a far greater Advantage at his Death; for when the Devils dragged the Rich Man to Hell, a Guard of Angels
+<pb n="7" facs="tcp:30451:6"/>was ſent to convey the departing Soul of the Poor Man into Heaven.</p>
+            <p>The ſtrong Man is brought to Death as well as the weak and feeble: <hi>Job</hi> 21.23, 24, 25. <hi>One dieth in his full, or in the very perfection of his ſtrength, whoſe breaſts were full of Milk, and his bones moiſtned with Marrow. Another dieth in the bitterneſs of his ſoul, that did never eat his meat with pleaſure; theſe ſhall lie down alike in the dust.</hi> By Strength no Man can prevail, the mighty Men of Va<g ref="char:EOLhyphen"/>lour were brought to Death, thoſe that in Old Times were called Men of Renown. <hi>The ſtout-hearted are ſpoiled, they have ſlept their ſleep, and the men of might have lost their hands, wherewith they have done great Ex<g ref="char:EOLhyphen"/>ploits,</hi> Pſal. 76.5. The great Conquerors of the World have by Death been conquered and overcome.</p>
+            <p>The Doctor and the Apothecary: The one that hath preſcribed, and the other that hath prepared Medicines, whereby the Sick have been recovered, and Life hath been preſerved, cannot deviſe nor provide a Potion that ſhall keep themſelves from Death. The Wiſe and the Fool. <hi>Solomon, Eccleſ.</hi> 2.16. propounds a Queſtion, <hi>How dies the Wiſe Man?</hi> And anſwers it, <hi>As the Fool.</hi> None by their Politick ſhifts can evade or ſhift it off; the great Head-pieces that have been in the World, have laid down their Heads in the Duſt.</p>
+            <p>The Uſeful and the Uſeleſs. Some Men are Luggage to the Earth, who only live to eat, and do no good in their Generation, whoſe Souls ſerve but for Salt to keep them from putrefying, and rotting above Ground. But there are, and have been others, that have been a Bleſ<g ref="char:EOLhyphen"/>ſing in their Places, doing much good unto thoſe they have converſed with: Such a one was <hi>Job,</hi> Chap. 29.12, 13, 14, 15, 16, 17. And <hi>David,</hi> Acts 13.36. <hi>who ſerved his Generation according to the will of God,</hi> yet for all that, <hi>he fell aſleep.</hi> Who more ſerviceable unto God and Man,
+<pb n="8" facs="tcp:30451:7"/>than the Holy Men of Old, Prophets, and Apoſtles, yet they did not live for ever, <hi>Zech.</hi> 1.5.</p>
+            <p>Yea, the Godly and Wicked have been, and ſhall be brought to Death. <hi>Wickedneſs ſhall not deliver him that is given to it,</hi> Eccleſ. 8.8. <hi>Nor ſhall the Righteouſneſs of the Righteous, for one event happens to them both,</hi> Eccleſ. 9.2.</p>
+            <p>
+               <hi>Object.</hi> But doth not <hi>Solomon</hi> contradict this Doctrine, who tells us, <hi>That Righteouſneſs delivereth from Death,</hi> Prov. 10.2?</p>
+            <p>
+               <hi>Reſp.</hi> It is certain that Righteouſneſs delivers from Death: But not from Natural Death, for that is a Debt owing by all, and muſt be paid by all; but Righteouſ<g ref="char:EOLhyphen"/>neſs doth deliver from the Sting or Curſe of it. So that the Righteous may with holy Boldneſs and Confidence Challenge Death to ſhew his Sting, 1 <hi>Cor.</hi> 15.55. And alſo from Eternal Death, which is called <hi>the ſecond Death,</hi> or a Death after Death, <hi>Rev.</hi> 2.11. <hi>Chap.</hi> 20.6.</p>
+            <p>Will God bring to Death? That is, to Natural Death, which is the diſſolving of the Union, or looſing or break<g ref="char:EOLhyphen"/>ing the Knot that did tye Body and Soul together, 2 <hi>Cor.</hi> 5.1. The word <hi>diſſolved</hi> is taken from the overthrow<g ref="char:EOLhyphen"/>ing or demoliſhing of Buildings, whereby the Houſe that was compact, and in the ſeveral parts joyned toge<g ref="char:EOLhyphen"/>ther, being demoliſhed, it is parted aſunder. Theſe two intimates, Body and Soul, by Death are ſeparated one from another.</p>
+            <p>
+               <hi>Third Queſtion.</hi> How did <hi>Job</hi> come to this Know<g ref="char:EOLhyphen"/>ledge? Why, in the ſame way as others do, or may at<g ref="char:EOLhyphen"/>tain it.</p>
+            <pb n="9" facs="tcp:30451:7"/>
+            <p n="1">1. By the Letter of the Scripture: This doth ſuffici<g ref="char:EOLhyphen"/>ently bear Witneſs to this Truth. <hi>Gen.</hi> 3.19. the Lord tells <hi>Adam, That he is Duſt, and unto Duſt he ſhall return. Job</hi> ſpeaks the ſame, <hi>Chap.</hi> 14.1. Beſides the mani<g ref="char:EOLhyphen"/>fold Inſtances of Perſons that died, recorded in the Scripture, do plainly, and convincingly demonſtrate it.</p>
+            <p n="2">2. Reaſon or the Light of Nature will tell us, that a Houſe of Clay, that is founded on a heap of Duſt, ſuch as our Bodies are, <hi>Job</hi> 4.19. how ſtrong or beau<g ref="char:EOLhyphen"/>tiful ſoever it be, will fall down. The Apoſtle calls it <hi>an Earthly Houſe,</hi> 2 Cor. 5.1. If it was built of Stones, and the Foundation was a Rock, or Marble, yet by one means or other it will decay, and may be overthrown. And if this be all the Knowledge Men have, it will not much affect the Heart, nor produce ſuch Effects as the Matter doth require. Men may, and many do know both theſe ways, that they muſt die; and yet the Lord may take up the Complaint againſt them, as he did a<g ref="char:EOLhyphen"/>gainſt <hi>Iſrael</hi> of Old, for not wiſely conſidering their lat<g ref="char:EOLhyphen"/>ter End, <hi>Deut.</hi> 32.29. Not duly expecting or preparing for it, not taking care to order their Converſations as dying Creatures ought to do, but do ſtill careleſly neg<g ref="char:EOLhyphen"/>lect the Concerns of their Precious and Immortal Souls. But,</p>
+            <p n="3">3. There is a Spiritual Knowledge of it, though the Object be Natural, which proceedeth from the Teach<g ref="char:EOLhyphen"/>ings of God, which Holy <hi>David</hi> prayed for, <hi>Pſal.</hi> 39.4. who had the means both of Scripture and Reaſon to in<g ref="char:EOLhyphen"/>form him, as other Men have; yet this did not ſatisfie him, and therefore applies himſelf to the Throne of Grace, that the Lord would teach him to know his End, and the meaſure of his Days, that he might thereby be made to know how frail he was. For this alſo did <hi>Moſes</hi>
+               <pb n="10" facs="tcp:30451:8"/>pray, <hi>Pſal.</hi> 90.12. that he might be taught ſo to <hi>number his days,</hi> that this Effect might be wrought, <hi>to apply his Heart to Wiſdom.</hi> In the foregoing Verſe he had caſt up the Account of the Years of Man's Life, but he looked after, and did beg for another kind of Knowledge, than what his Reaſon could Inſtruct him in. You therefore that have only that knowledge of your Mortality, that Reaſon and the Letter of the Scripture teacheth, be ex<g ref="char:EOLhyphen"/>horted to imitate theſe Holy Men, that you may attain that knowledge of it, as may encline your Hearts to ſeek after the things that belong unto your Eternal Welfare.</p>
+            <p>Having run through the words, by way of Explica<g ref="char:EOLhyphen"/>tion, I ſhall lay before you two Obſervations that ariſe from them.</p>
+            <list>
+               <item>1. That God will bring us to Death.</item>
+               <item>2. That it is a piece of the greateſt Wiſdom, rightly and Spiritually to know this.</item>
+            </list>
+            <p>I ſhall only handle the firſt of theſe: How long ſoever, and what Lives ſoever we live, yet we muſt die.</p>
+            <div type="part">
+               <head>Reaſons of the Doctrine.</head>
+               <p n="1">1. God will bring us to Death, becauſe we bring Sin into the World, which opens a Paſſage for Death. <hi>Rom.</hi> 5.12. <hi>As by one Man Sin entred into the World, ſo Death by Sin; and Death paſſed upon all Men, for that all have ſinned.</hi> Here we ſee at what Door Death enters; though Man was made of weak and feeble Matter, yet if Sin had not made the way, he ſhould not have died; but our Father <hi>Adam,</hi> the Repreſentative of Mankind, tranſgreſſing the Law of Creation, preſently Death is threatned,
+<pb n="11" facs="tcp:30451:8"/>
+                  <hi>Gen.</hi> 3.19. and that not to himſelf only, but to all that ſhould come out of his Loyns, or his whole Poſterity; and although the Guilt of Sin, binding over to Eternal Death, be removed from ſome of his Seed, by the Seed of the Woman, yet Natural Death muſt paſs upon them all.</p>
+               <p n="2">2. Man having ſinned, God did not ſend us into the World with a Deſign of ſpending an Eternity to it, but gives us a little Time to prepare us for an Eternal Glory, which he hath prepared for thoſe that die in the Lord. Moſt Men live as if they were ſent hither only to eat and drink, and provide for their Fleſh; but the All-wiſe God had higher Ends in making ſo Noble a Creature as Man, putting him into a Natural Capacity, by the Soul he hath endued him with, which is a Spirit and Immor<g ref="char:EOLhyphen"/>tal of an Immortal Glory. And the Lord hath given him time to ſeek after it, and appointed ways and means how he may attain it, which time not being duly im<g ref="char:EOLhyphen"/>proved, and the means wofully neglected, proves the occaſion of mens Eternal Deſtruction. Hence it is that the tender Heart of Chriſt did ſo condole the caſe of <hi>Je<g ref="char:EOLhyphen"/>ruſalem, Luke</hi> 19.42. They had the means of attaining the knowledge of the things belonging to their Peace, but they let ſlip the time, and made no good uſe of the means, until the things of their Peace were hid from them. A fair Warning to us that are partakers of the Goſpel, and call aloud upon us, <hi>to ſeek the Lord while he may be found, and to call upon him while he is near,</hi> Iſa. 55.6.</p>
+               <p n="3">3. God will bring us to Death, becauſe of his Ap<g ref="char:EOLhyphen"/>pointment: He hath ſo appointed, and ordained, and this cannot be fruſtrated. Men may ordain, purpoſe,
+<pb n="12" facs="tcp:30451:9"/>and appoint things that never come to paſs; but it is otherwiſe with the Infinitely, All-wiſe, and Almighty God; there can be no Contingencies happen to make his Purpoſes and Appointments void.</p>
+               <p n="4">4. Becauſe he will bring us to Judgment, which fol<g ref="char:EOLhyphen"/>lows Death, <hi>Heb.</hi> 9.28. There is the Judgment of par<g ref="char:EOLhyphen"/>ticular Perſons at Death, for the Spirit returns to God to be diſpoſed of, when the duſty Body doth return to the Earth, <hi>Eccleſ.</hi> 12.7. The General Judgment, which is com<g ref="char:EOLhyphen"/>monly called the Day of Judgment, is at the Reſurre<g ref="char:EOLhyphen"/>ction, when the Lord will bring back from Death again.</p>
+               <p n="5">5. God will bring the Wicked to Death, to put an end to his Wickedneſs: When he hath filled up his mea<g ref="char:EOLhyphen"/>ſure, <hi>Pſal.</hi> 7.9. he ſhall Damn, Curſe, be Drunk no more; he ſhall no longer mock at Religion, nor Perſe<g ref="char:EOLhyphen"/>cute God's People with Tongue or Hand: He is a Bur<g ref="char:EOLhyphen"/>then to the Earth whilſt he lives, and God will eaſe the Earth of that Burthen by his Death.</p>
+               <p n="6">6. God will bring his People to Death, to give them Reſt from all their Labours, <hi>Rev.</hi> 14.13. They ſhall be carryed out of the reach of a vexing, tempting Devil, and from the malice and enmity of an envious World, and from all the Tribulations they meet with whilſt they are in it: <hi>John</hi> 16. <hi>ult. In the World ye ſhall have Tribula<g ref="char:EOLhyphen"/>tion.</hi> They ſhall no longer groan under the Burthen of a Body of Death, have no more cauſe to complain, and fetch deep ſighs from the oppreſſion of Guilt, nor bemoan themſelves for the filthineſs of their Hearts, nor ſhall they any longer be without the light of the Sun, nor walk in Darkneſs, as here often they do, from the hidings of God's Face. But,</p>
+               <pb n="13" facs="tcp:30451:9"/>
+               <p n="7">7. God will bring them to Death, to bring them into Poſſeſſion of the Eternal Inheritance prepared for them, thoſe Manſions of Light that he hath been by his Grace fitting and preparing them for, <hi>Rom.</hi> 9.23. <hi>Col.</hi> 1.12. Or if you will, God will bring them to Death, to bring them to the full, glorious, uninterrupted Enjoyment of his bleſſed Preſence, that they may ever be with the Lord; for whilſt they are at home in the Body, they are, in the ſenſe forementioned, abſent from the Lord, 2 <hi>Cor.</hi> 5.6. So that by what hath been ſaid in theſe three laſt Particulars, and many other that might be mentioned, which, the Time being paſt, and my Strength much exhauſted, I muſt forbear to inſiſt on; it will ap<g ref="char:EOLhyphen"/>pear, though both Godly and Ungodly are brought to Death, yet there is a vaſt difference between the Death of the one, and of the other. A little time I muſt take to improve this Doctrine by Application.</p>
+               <p n="1">1. If God will bring us to Death, this informs us,</p>
+               <p n="1">1. Of the certainty and neceſſity of dying, unleſs God will change his Mind, repeal his Statute-Law, or hath not Power ſufficient in his Hand to execute it. So that we may ſay, as the Woman of <hi>Tekoah</hi> did to <hi>David,</hi> 2 <hi>Sam.</hi> 14.14. <hi>We muſt needs die, and be as Water ſpilt upon the Ground.</hi> For unleſs that firſt Law, which was the Reſult of Infinite Wiſdom, be reſcinded by a Poſt-Act, which cannot be ſuppoſed, or that there is a Pro<g ref="char:EOLhyphen"/>viſo to exempt any from the common Fate of Mankind; the firſt Law doth ſtand in full force, and muſt certainly be put into execution.</p>
+               <p n="2">2. That ſeeing the Lord will bring us all to Death, this doth inform us of, and reproveth the Folly and Madneſs of thoſe that put this far away, upon a preſumption of
+<pb n="14" facs="tcp:30451:10"/>long Life, and yet know not what the next day or hour may produce, like the raſh Fool in the Goſpel, <hi>Luke</hi> 12.19. and it may fare with them as it did with him, <hi>v.</hi> 20. What, wilt thou preſume of length of days, and on this Preſumption defer thy Repentance? Alas! how many ſuch are there now, that are paſt Repentance? Doth not the Lord denounce a <hi>Woe</hi> againſt ſuch, <hi>Amos</hi> 6.1.3? What Bed doſt thou lie on, what is thy Pillow ſtuff'd with, that canſt ſleep ſecurely in thine Impenitent Con<g ref="char:EOLhyphen"/>dition? Doſt thou not fear, that when thou ſleepeſt on thy Bed in the Night, that in the Morning thou ſhalt awake with the Everlaſting Flames about thine Ears? I am ſure thou haſt cauſe enough to fear it.</p>
+               <p n="3">3. If God will bring us to Death, it doth greatly con<g ref="char:EOLhyphen"/>cern us to bring Death near to our ſelves, before God brings us to it.</p>
+               <p n="1">1. Believing the Truth my Text ſpeaks of, I find that though it is generally acknowledged that all muſt die, yet too few there are that do really believe that they are of that number. Surely, was it believed, it would pro<g ref="char:EOLhyphen"/>duce better things than do appear in their Lives and Con<g ref="char:EOLhyphen"/>verſations. What <hi>Peter</hi> ſaith touching the diſſolution of all things, and what uſe ſhould be made of it, 2 <hi>Pet.</hi> 3.11. If Men did believe their own Diſſolution, it would provoke unto a Holy and Godly Converſation. What a poor Woman once ſaid, lying on a Death-bed, may many ſay in the like Condition; <hi>I often</hi> (ſaid ſhe) <hi>thought of Dying, but would I had believed it:</hi> Believing brings that near, that is at a diſtance; <hi>Janus</hi>-like, it looks backward and forward.</p>
+               <p n="2">2. Seriouſly and frequently thinking of it, and me<g ref="char:EOLhyphen"/>ditating on it. Alas! how few are there that buſie their
+<pb n="15" facs="tcp:30451:10"/>Heads in thinking of that which is coſting, will cer<g ref="char:EOLhyphen"/>tainly come, and ſuddenly may come. This Subject re<g ref="char:EOLhyphen"/>quires our deepeſt muſing on it. Sad will be the ſurpriſal, if Death ſhould look in at the Window with his auſtere Countenance, and ſit on our trembling Lips before we have ſeriouſly thought of it, expected it, and are prepared for it; we ſhall never wait for that change which we never thought of.</p>
+               <p n="3">3. Dying daily, as <hi>Paul</hi> ſaid of himſelf, 1 <hi>Cor.</hi> 15.31. not only becauſe of the continual danger he was in for his work-ſake, but becauſe he was daily making ready for it, <hi>fighting the good fight of Faith, that he might lay hold on Eternal Life,</hi> as he exhorted his Son <hi>Timothy,</hi> 1 <hi>Epiſt. Chap.</hi> 6.12. Dying to the World, to Sin, unto Self, and following the Captain of his Salvation, to oppoſe and cut off the Enemies of his Salvation. By bringing Death thus unto our ſelves, there undoubtedly will follow choice and excellent Effects. As,</p>
+               <p n="1">1. Hiding Pride from us; pulling down the high Hearts, and high Heads. What! ſhall Mortal, dying Duſt lift up it ſelf? Shall not the conſideration of our Frailty bring down our lofty looks? When a proud Thought appears, reflect on thy Mortality, and think with thy ſelf, whether ſuch a Thought becomes ſuch a piece of Duſt as thou art, whoſe lofty looks ere long muſt be humbled; ſurely the thoughts and conſideration of Death is enough to preſerve from ſelf-exaltation.</p>
+               <p n="2">2. Moderating our Affections unto our Creature-En<g ref="char:EOLhyphen"/>joyments, and to beget Temperance in our purſuit after, and uſe of them, as the Apoſtle, from the conſideration of the brevity of our Lives, doth exhort unto, 1 <hi>Cor.</hi> 7.29,
+<pb n="16" facs="tcp:30451:11"/>30, 31. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all muſt be left when Death comes, both in reſpect of Uſe and Enjoyment, undoubtedly ſetting Death in good earneſt before us, will be a means to Cru<g ref="char:EOLhyphen"/>cifie us unto the World, and the World unto us. Shall that be lodged in our Hearts, that we ſhall hold but a little while in our Hands, and will be wholly out of our Eye? Did we really believe that it will not be long that we ſhall have theſe things in our Poſſeſſion, we ſhould make the leſs of them whilſt we do poſſeſs them.</p>
+               <p n="3">3. Quickning our dull and ſleepy Hearts unto greater Diligence in ſeeking after, and endeavouring to ſecure cur main and principal Intereſt, will a time come, and may it be near to us, that will put an end unto all Op<g ref="char:EOLhyphen"/>portunities, for our Souls Eternal Welfare? O then, why are we ſo ſottiſh, as to waſte our little time in Va<g ref="char:EOLhyphen"/>nity or Drudgery of the World, when we have ſo great a Concernment lie upon our Hand? And how ſad will it be, if we miſs the Time, and loſe our Opportunity?</p>
+               <p n="4">4. If it be God that brings to Death, then let this Command us into Holy Silence, and bring our Hearts into quiet Submiſſion, when our chiefeſt Friends, and deareſt Relations are taken away; this Conſideration, that God hath done it, ſhould quiet our Minds, and charm us into the moſt profound ſilence; as <hi>Aaron, Levit.</hi> 10.2. when by a moſt diſmal ſtroke from Heaven two of his Sons were cut off together, which did teſtifie God's great Diſpleaſure, they being taken away in the Act of ſinning, yet he held his peace; that is, he quarrelled not at that Awful Providence, but with the greateſt Patience did bear up under it. So <hi>Pſal.</hi> 39.9. <hi>I was dumb, and opened not my mouth, becauſe God did it.</hi> Thus did <hi>Job,</hi> when all his Children fell together by an unuſual and fearful
+<pb n="17" facs="tcp:30451:11"/>ſtroke, <hi>Chap.</hi> 1.18. A Miniſter's <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> impatiently lamenting the loſs of her late deceaſed Husband, and her Livelihood alſo by that means taken away, an aged gracious Woman diſcourſing with her, that ſhe might compoſe her diſturbed Mind, did ask her, who did it? She anſwered, God had done it. Then, ſaith ſhe, be ſtill; for if he hath done it, he hath done thee no wrong.</p>
+               <list>
+                  <item>1. It is he that hath an abſolute and uncontroulable Right to diſpoſe of us, and all our Creature-Comforts at his own Will and Pleaſure; his Sovereignty therefore ſhould ſtrike us into a Holy Dumbneſs, when under ſuch chaſtiſing Providences.</item>
+                  <item>2. It is he that is too juſt to do us any wrong, and too good to do us harm; and if neither wrong nor harm are done us, we have no reaſon to mourn exceſſively, nor to give way to any Impatience.</item>
+                  <item>3. It is he that can make up our Loſs, be it never ſo great; and if we carry it well, and put our Truſt in him, he will ſurely and certainly do it; <hi>who makes all things work together for their good, who love him, and are the called according to his purpoſe,</hi> Rom. 8.28. He can, you need not fear, ſupply the abſence of your beſt Relations.</item>
+               </list>
+               <p>O but, may one ſay, I have parted with a moſt ten<g ref="char:EOLhyphen"/>der and loving Father. True; but he was but an Earthly Father, and Mortal alſo: If thou getteſt an Intereſt in God, he will be an Heavenly, and an Immortal Father.</p>
+               <p>O, ſaith another, I have loſt a moſt Faithful and Con<g ref="char:EOLhyphen"/>ſtant Friend, the beſt Friend I had in all the World. Be
+<pb n="18" facs="tcp:30451:12"/>it ſo; then make ſure of that Friend that will never fail, and that will be ſo for ever; <hi>There is a Friend that ſticks cloſer than a Brother,</hi> make him your Friend.</p>
+               <p>O, ſaith a third, the Lord brought unto Death a moſt Tender, Dutiful, and Obedient Child, as ever Parent had. Well! is there not enough in him that hath taken thy Child from thee, to repair that Loſs with unſpeak<g ref="char:EOLhyphen"/>able Advantage? It may be thou didſt lodge thy Child in that Bed of Love; which the Lord had taken for him<g ref="char:EOLhyphen"/>ſelf, and therefore, to make room for him, he hath taken that Child from thee. I remember the ſaying of a good Woman, who had only one Son, who by a diſa<g ref="char:EOLhyphen"/>ſtrous Providence was brought to Death; upon the News of it, anſwered, Now I ſee God will leave me nothing to love but himſelf. And if that Love which was ſet on thy Child, be placed upon God, when thy Child is gone, it will be manifeſt, that it was his love to thy Soul, that thy Child was removed from thee.</p>
+               <p n="5">5. <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> My Text, and the Doctrine inſiſted on, brings very good and very bad News: Very good unto the God<g ref="char:EOLhyphen"/>ly, but very bad unto the Wicked.</p>
+               <list>
+                  <item>1. It is your Mercy that are the called of God, and by Grace are brought over to Jeſus Chriſt, that God will bring you to Death, and eaſe you thereby of all the Bur<g ref="char:EOLhyphen"/>thens and Grievances that whilſt you are in this howling Wilderneſs you are oppreſſed with; you by Death are delivered from the Body of Death, that ſometimes you groan under; from the Spirit of Bondage, Temptations of the Enemy, and all Evils, both Corporal and Spiri<g ref="char:EOLhyphen"/>tual, that whilſt here you are annoyed or vexed with.</item>
+                  <pb n="19" facs="tcp:30451:12"/>
+                  <item>2. By this you will be brought into the Poſſeſſion of that Inheritance which is incorruptible, undefiled, and fadeth not away, 1 <hi>Pet.</hi> 1.</item>
+                  <item>3. By this your imperfect Grace and Knowledge will arrive unto that full perfection that your Nature is ca<g ref="char:EOLhyphen"/>pable of.</item>
+                  <item>4. And hereby you ſhall attain unto full and entire Sa<g ref="char:EOLhyphen"/>tisfaction; your Deſires being ſo fully anſwered, that you ſhall deſire no more, neither can more be deſired.</item>
+               </list>
+               <p>But <hi>2dly,</hi> As this is good, the beſt News unto Saints, ſo it is the worſt News that can be to Sinners and the Ungodly that ſo live and die. For,
+<list>
+                     <item>1. They leave all their good things, and the things they take moſt Pleaſure and Delight in behind them, and muſt take an everlaſting farewel of them.</item>
+                     <item>2. Their Evil VVorks will follow them, and the Re<g ref="char:EOLhyphen"/>ward of them will be their Portion, the VVages thereof is Eternal Death, <hi>Rom.</hi> 6.</item>
+                     <item>3. They will have nothing to yield them the leaſt Relief or Comfort when Miſery unconceivable will come upon them; not ſo much as a drop of cold water to cool their flaming Tongue, <hi>Luke</hi> 16.24 which whilſt here was ſet on fire of Hell; that Tongue wherewith they blaſ<g ref="char:EOLhyphen"/>phemed God, by Curſing, Damning, and Swearing; and wherewith they mocked and derided the People of God, his VVays, and Ordinances.</item>
+                     <pb n="20" facs="tcp:30451:13"/>
+                     <item>4. VVhen God brings them to Death, they are car<g ref="char:EOLhyphen"/>ried by the Devil, whom they have ſerved, to be Com<g ref="char:EOLhyphen"/>panions with him in that unquenchable Fire, that is pre<g ref="char:EOLhyphen"/>pared for them.</item>
+                     <item>5. And that which aggravates all their Miſery, that they ſhall be endleſs, and deſpair of ever having any eaſe or end of them.</item>
+                  </list>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Sold by <hi>Mark Conyers</hi> in <hi>Newport-Pagnel,</hi> where you may be furniſhed with all ſorts of Books and Stationary Ware; and where you may have Money for Old Books, or Studies of Books.</head>
+            <list>
+               <item>Art's Maſter-Piece.</item>
+               <item>Notable Things.</item>
+               <item>True Art of Angling.</item>
+               <item>Experienced Fowler.</item>
+               <item>The Cook's New-Years-Gift.</item>
+               <item>Delight and Paſtime.</item>
+               <item>Pious Man's Directions.</item>
+               <item>A Spark from the Altar.</item>
+            </list>
+            <pb facs="tcp:30451:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
